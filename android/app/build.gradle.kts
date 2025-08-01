@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.nap4"
+    namespace = "com.napnetworks.app"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
